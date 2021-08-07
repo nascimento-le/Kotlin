@@ -1,2 +1,2 @@
 # Kotlin
-Exercíciosem Kotlin feitos com o curso da Digital House Ago/2021
+Exercícios em Kotlin feitos com o curso da Digital House Ago/2021
