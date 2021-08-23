@@ -1,9 +1,4 @@
-package classes.Kotlin
-
-fun main() {
-    val multiplicadora = Multiplicadora(arrayListOf(4,5,8,2,6,1))
-    println(multiplicadora.produto())
-}
+package classes.Kotlin.Multiplicar
 
 class Multiplicadora( var list: ArrayList<Int>) {
 

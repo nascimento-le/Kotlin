@@ -1,4 +1,4 @@
-package classes
+package classes.Kotlin.Aluno
 
 class Aluno(var nome: String, var sobrenome: String, var idade: Int){
 
@@ -9,8 +9,3 @@ class Aluno(var nome: String, var sobrenome: String, var idade: Int){
     }
 }
 
-fun main() {
-    val aluno = Aluno("Letícia", "Nascimento", 25,"Desenvolvimento Mobile")
-
-    println(aluno.nome + " " + aluno.sobrenome + ", " + aluno.idade + " anos / " + aluno.curso)
-}

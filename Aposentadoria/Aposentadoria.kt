@@ -1,9 +1,5 @@
 package classes
 
-fun main() {
-    var possoAposentar = Aposentar(60, "Homem", 34).contribuicao()
-}
-
 class Aposentar(var idade: Int,var sexo: String,var anosDeContribuicao: Int) {
 
     fun contribuicao() {
